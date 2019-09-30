@@ -8,6 +8,10 @@ This shell and python script will use objdump to count how many instruction is i
 ./scan.sh <command name OR binary path>
 ```
 
+### Output
+
+It output as CSV in stdout without headers.
+
 ## Need
 
 - objdump
